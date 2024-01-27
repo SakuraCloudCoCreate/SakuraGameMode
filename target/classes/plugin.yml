@@ -1,0 +1,14 @@
+name: SakuraGameMode
+version: '1.0.0'
+main: com.sakura.sakuragamemode.SakuraGameMode
+api-version: '1.18'
+commands:
+  gms:
+    description: To change your game into survival mode
+  gmsp:
+    description: To change your game into spector mode
+permissions:
+  sakura.gamemode.survival:
+    description: Have permission to execute the gms command
+  sakura.gamemode.spector:
+    description: Have permission to execute the gmsp command

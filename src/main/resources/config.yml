@@ -1,0 +1,8 @@
+enable: true
+permission:
+  gms: "sakura.gamemode.survival"
+  gmsp: "sakura.gamemode.spector"
+message:
+  noPermission: "&c你没有权限这么做"
+  notNeeded: "&c你的游戏模式无需切换"
+  success: "&a你的模式已切换为 &7%gamemode%"
