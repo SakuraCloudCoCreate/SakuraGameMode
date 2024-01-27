@@ -1,8 +1,8 @@
 # SakuraGameMode Plugin
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/SakuraGameMode)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/SakuraGameMode)
-![GitHub license](https://img.shields.io/github/license/yourusername/SakuraGameMode)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/SakuraCloudCoCreate/SakuraGameMode)
+![GitHub issues](https://img.shields.io/github/issues/SakuraCloudCoCreate/SakuraGameMode)
+![GitHub license](https://img.shields.io/github/license/SakuraCloudCoCreate/SakuraGameMode)
 
 SakuraGameMode 是一个 Minecraft 插件，用于快速切换游戏模式。
 
@@ -34,7 +34,7 @@ SakuraGameMode 是一个 Minecraft 插件，用于快速切换游戏模式。
 
 ## 安装
 
-1. 下载最新版本的插件 [Release 页面](https://github.com/yourusername/SakuraGameMode/releases)。
+1. 下载最新版本的插件 [Release 页面](https://github.com/SakuraCloudCoCreate/SakuraGameMode/releases)。
 2. 将下载的 JAR 文件放入你的 Minecraft 服务器的插件目录。
 3. 重启服务器，插件生效。
 
