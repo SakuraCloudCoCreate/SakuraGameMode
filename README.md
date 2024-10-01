@@ -3,8 +3,8 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/SakuraCloudCoCreate/SakuraGameMode)
 ![GitHub issues](https://img.shields.io/github/issues/SakuraCloudCoCreate/SakuraGameMode)
 ![GitHub license](https://img.shields.io/github/license/SakuraCloudCoCreate/SakuraGameMode)
-<本插件作为一个Spigot入门教程项目
-<为想要学习我的世界插件开发作为帮助
+>本插件作为一个Spigot入门教程项目
+>为想要学习我的世界插件开发作为帮助
 
 SakuraGameMode 是一个 Minecraft 插件，用于快速切换游戏模式。
 
