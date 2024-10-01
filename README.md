@@ -3,6 +3,8 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/SakuraCloudCoCreate/SakuraGameMode)
 ![GitHub issues](https://img.shields.io/github/issues/SakuraCloudCoCreate/SakuraGameMode)
 ![GitHub license](https://img.shields.io/github/license/SakuraCloudCoCreate/SakuraGameMode)
+<本插件作为一个Spigot入门教程项目
+<为想要学习我的世界插件开发作为帮助
 
 SakuraGameMode 是一个 Minecraft 插件，用于快速切换游戏模式。
 
@@ -11,10 +13,6 @@ SakuraGameMode 是一个 Minecraft 插件，用于快速切换游戏模式。
 - 作者：Sakura
 - QQ：3559995539
 - 邮箱：hrd@mcmail.cn
-
-## 版权声明
-
-本插件遵守开元规范,我允许一切商业行为和二次开发.但必须遵守开源规范，标明作者
 
 ## 版本信息
 
@@ -32,12 +30,4 @@ SakuraGameMode 是一个 Minecraft 插件，用于快速切换游戏模式。
 - `sakura.gamemode.survival`：执行 `/gms` 命令的权限
 - `sakura.gamemode.spector`：执行 `/gmsp` 命令的权限
 
-## 安装
 
-1. 下载最新版本的插件 [Release 页面](https://github.com/SakuraCloudCoCreate/SakuraGameMode/releases)。
-2. 将下载的 JAR 文件放入你的 Minecraft 服务器的插件目录。
-3. 重启服务器，插件生效。
-
-## 参与贡献
-
-如果你发现了 Bug 或有改进的建议，欢迎提交 Issue 或 Pull Request。
